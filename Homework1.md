@@ -3,7 +3,8 @@
 # Homework 1 
 ## My Best/Worst Case Scenarios for the Semester
 
-Instructions: By focusing on a group project, this class has a spectrum of different outcomes that are out of your control. If the group project is not successful, you will need to have a backup plan of making an individual project. 
+### Instructions: 
+By focusing on a group project, this class has a spectrum of different outcomes that are out of your control. If the group project is not successful, you will need to have a backup plan of making an individual project. 
 Write up ≈1 page visualizing what your personal best-case outcome is for the semester and the worst case. Delete or adapt the following template. For best case, discuss your dream project and why you are interested in that subject
 If you want the group to see your ideas, please submit this homework assignment to your personal GitHub repo under the ICS 690 repo. If you want these ideas to stay private, email this assignment to craig.calcaterra@metrostate.edu
 
